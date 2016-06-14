@@ -1,3 +1,2 @@
-git is a version control sysytem.
-
-git is free softwear.
+git is a distribute version control sysytem.
+git is a free softwear.
