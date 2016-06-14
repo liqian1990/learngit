@@ -1,2 +1,2 @@
 git is a distribute version control sysytem.
-git is a free softwear.
+git is a free softwear distribute under the GPL.
